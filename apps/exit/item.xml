@@ -1,0 +1,6 @@
+<?xml version="1.0" standalone="yes"?>
+<apps>
+	<allow>true</allow>
+	<title>Wii U Menu</title>
+	<description>Returns to the WiiU Menu</description>
+</apps>

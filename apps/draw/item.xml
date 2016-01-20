@@ -1,0 +1,6 @@
+<?xml version="1.0" standalone="yes"?>
+<apps>
+	<allow>true</allow>
+	<title>Draw</title>
+	<description>Homebrew to draw using the gamepad</description>
+</apps>
