@@ -1,6 +1,6 @@
 <?xml version="1.0" standalone="yes"?>
 <apps>
 	<allow>true</allow>
-	<title>Pong</title>
-	<description>Wii U Homebrew version of Pong</description>
+	<title>Update remover</title>
+	<description>Remove downloaded nintendo update</description>
 </apps>
